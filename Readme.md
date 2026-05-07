@@ -1,4 +1,4 @@
-# <span style="color:deepskyblue">SmartCityOS</span>
+# $\color{deepskyblue}{\text{This text is red}}$
 
 
 Smart City OS is an integrated urban management platform designed to improve city operations, public services, transportation, environmental monitoring, and citizen engagement through real-time data management and smart digital solutions.

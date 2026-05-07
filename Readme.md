@@ -1,9 +1,8 @@
-# $\color{deepskyblue}{\text{This text is red}}$
-
+# $\color{deepskyblue}{\text{SmartCityOS}}$
 
 Smart City OS is an integrated urban management platform designed to improve city operations, public services, transportation, environmental monitoring, and citizen engagement through real-time data management and smart digital solutions.
 
-## Problem Statement
+## $\color{black}{\text{Problem Statement}}$
 
 Modern cities face challenges such as:
 
@@ -16,7 +15,7 @@ Modern cities face challenges such as:
 
 Most city services operate separately, reducing efficiency and coordination.
 
-## Solution Statement
+## $\color{black}{\text{Solution Statement}}$
 
 Smart City OS provides a centralized digital platform that:
 
@@ -26,3 +25,4 @@ Smart City OS provides a centralized digital platform that:
 - Tracking traffic, waste management, and environmental conditions
 - Enabling faster issue resolution through centralized management
 - Increasing transparency and citizen participation
+
